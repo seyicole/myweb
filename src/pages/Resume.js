@@ -9,8 +9,8 @@ export default function Resume() {
             <p>Freelance developer – present</p>
             <p>Full-stack Developer - Full Stack (HTML, CSS, JavaScript, Express, React)</p>
 
-            <p><a href='https://swipemax.com/' target="blank"><span>Swipemax</span></a> June 2019 – January, 2020</p>
-            <p>Frontend developer - Front-end (HTML, CSS, React, Wordpress)</p>
+            <p><a href='https://swipemax.com/' target="blank"><span>Swipemax</span></a> June 2020 – January, 2021</p>
+            <p>Frontend developer - Front-end (HTML, CSS, JavaScript)</p>
 
             {/* <p><a href='https://www.amplify.ng/' target='blank'><span> Amplify Digital Agency</span></a> March 2018 – April 2019</p>
             <p>Lead Developer - Front-end (HTML, CSS, Javascript, Node)</p>
