@@ -19,7 +19,7 @@ export default class Projects extends Component {
                 <h3>Web Apps</h3>
                 <ul className='projects-list'>
                     <li>
-                        <p>Entertainment & Lifestyle » <a href='https://habarigt.com/' target='blank'><span>Habari</span></a></p>
+                        <p>Entertainment & Lifestyle » <a href='https://habarideals.com/' target='blank'><span>Habari</span></a></p>
                     </li>
                     <li>
                         <p>Hotel & Resort » <a href='https://seyicole.github.io/resort' target='blank'><span>Resort</span></a></p>
